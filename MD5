@@ -1,0 +1,12 @@
+8fcf65d0bc6048c1441649e676e18d40 *DESCRIPTION
+8ab64ed62f653af571a1146937596c7b *LICENSE
+cda0339f920775e28f8dc74c414b94f9 *NAMESPACE
+e585dd30e247e00ad930d4a42b4fb71a *R/launch.R
+f6032df28348110a040b12f864259a5c *build/vignette.rds
+c0e84d184b220c9e259c75ba2253e7c4 *inst/doc/introduction_sciRmdTheme.R
+e030d5709ef614b0b2013cb85a7bf69b *inst/doc/introduction_sciRmdTheme.Rmd
+5d9d1ba2443808d0c7eb1944e1e0218e *inst/doc/introduction_sciRmdTheme.html
+c63841faea18cef4cf0c144ed1b26a5c *inst/themes/default.css
+d2eeeb8a98ecf851fc0312ba80df0880 *inst/themes/default.js
+18f711bf46ebba413fea280df7ac88d1 *man/set.theme.Rd
+e030d5709ef614b0b2013cb85a7bf69b *vignettes/introduction_sciRmdTheme.Rmd
